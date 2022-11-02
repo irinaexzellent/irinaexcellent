@@ -1,8 +1,7 @@
 Hello!
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyMMedvedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irinaexzellent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-464646??style=flat-square&logo=javascript)](https://www.javascript.com/)
 [![CSS](https://img.shields.io/badge/-CSS-464646??style=flat-square&logo=css3)](https://www.w3.org/Style/CSS/specs.ru.html)
